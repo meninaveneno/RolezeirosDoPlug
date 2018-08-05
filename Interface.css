@@ -1,20 +1,20 @@
-@import url('https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/Butterley.css');
-@import url('https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/users.css');
-@import url('https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/Transparente.css');
+@import  url ( ' https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/Butterley.css ' );
+@import  url ( ' https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/users.css ' );
+@import  url ( ' https://rawgit.com/meninaveneno/RolezeirosDoPlug/master/Transparente.css ' );
 
 
-/* Nana */ #chat-messages .id-21755082 .badge-box:hover{ width: 65px; height: 65px; transition: 0.5s;  }
-/* Nana */ #chat-messages .id-21755082 .badge-box i.bdg, .id-20574971 .no-badge i { background-image: url(https://i.pinimg.com/originals/14/70/43/147043fcaadeff48d5ca939dbd8164df.png); background-size: cover; width: 100%; height: 100%; background-position: initial; position: absolute; top: 0px; left: 0px; border: 0px solid #444A59; border-radius: 0; background-size: cover; width: 100%; height: 100%; background-position: initial;}
-/* Lolla */ #chat-messages .id-23246837 .badge-box:hover{ width: 65px; height: 65px; transition: 0.5s;  }
-/* Lolla */ #chat-messages .id-23246837 .badge-box i.bdg, .id-5842493 .no-badge i { background-image: url(https://data.whicdn.com/images/232104861/large.jpg); background-size: cover; width: 100%; height: 100%; background-position: initial; position: absolute; top: 0px; left: 0px; border: 0px solid #444A59; border-radius: 0; background-size: cover; width: 100%; height: 100%; background-position: initial;}
-/* LIL VINE */ #chat-messages .id-36740873 .badge-box:hover{ width: 65px; height: 65px; transition: 0.5s;  }
-/* LIL VINE */ #chat-messages .id-36740873 .badge-box i.bdg, .id-36740873 .no-badge i { background-image: url(https://i.imgur.com/UG4ciFh.jpg); background-size: cover; width: 100%; height: 100%; background-position: initial; position: absolute; top: 0px; left: 0px; border: 0px solid #444A59; border-radius: 0; background-size: cover; width: 100%; height: 100%; background-position: initial;}
-/* Carol */ #chat-messages .id-38741985 .badge-box:hover{ width: 65px; height: 65px; transition: 0.5s;  }
-/* Carol */ #chat-messages .id-38741985 .badge-box i.bdg, .id-5639828 .no-badge i { background-image: url(https://i.pinimg.com/originals/f9/a9/cb/f9a9cb76ad6d295cf6f0f922b076d7b4.jpg); background-size: cover; width: 100%; height: 100%; background-position: initial; position: absolute; top: 0px; left: 0px; border: 0px solid #444A59; border-radius: 0; background-size: cover; width: 100%; height: 100%; background-position: initial;}
+/ * Nana * /  # mensagens de chat  .id-  21755082.badge-box : hover { largura : 65 px ; altura : 65 px ; transição : 0,5 s ; }
+/ * Nana * /  # mensagens de chat  .id-21755082.badge  -box  i .bdg , .id-20574971  .no-badge  i { imagem de fundo : url ( https://i.pinimg.com/originals/14 / 70 / 43 / 147043fcaadeff48d5ca939dbd8164df.png ); tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; posição de fundo : inicial ; posição : absoluta ; top : 0px ; esquerda : 0 px ; borda : 0 px  sólido  # 444A59 ; border-radius : 0 ; tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; background-position : inicial ;}
+/ * Lolla * /  # mensagens de chat  .id-  23246837.badge-box : hover { largura : 65 px ; altura : 65 px ; transição : 0,5 s ; }
+/ * Lolla * /  # mensagens de chat  .id-23246837.badge  -box  i .bdg , .id-5842493  .no-badge  i { imagem de fundo : url ( https://data.whicdn.com/images/232104861 /large.jpg ); tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; posição de fundo : inicial ; posição : absoluta ; top : 0 px; esquerda : 0 px ; borda : 0 px  sólido  # 444A59 ; border-radius : 0 ; tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; background-position : inicial ;}
+/ * LIL VINE * /  # mensagens de chat  .id-  36740873.badge-box : hover { largura : 65 px ; altura : 65 px ; transição : 0,5 s ; }
+/ * LIL VINE * /  # mensagens de chat  .id-36740873.badge  -box  i .bdg , .id-36740873  .no-badge  i { imagem de fundo : url ( https://i.imgur.com/UG4ciFh. jpg ); tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; posição de fundo : inicial ; posição : absoluta ; topo : 0 px ;esquerda : 0 px ; borda : 0 px  sólido  # 444A59 ; border-radius : 0 ; tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; background-position : inicial ;}
+/ * Carol * /  # chat-messages  .id-  38741985.badge-box : hover { largura : 65 px ; altura : 65 px ; transição : 0,5 s ; }
+/ * Carol * /  # mensagens de chat  .id-38741985.badge  -box  i .bdg , .id-5639828  .no-badge  i { imagem de fundo : url ( https://i.pinimg.com/originals/f9 /a9/cb/f9a9cb76ad6d295cf6f0f922b076d7b4.jpg ); tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; posição de fundo : inicial ; posição : absoluta ; top : 0px ; esquerda : 0 px ; borda : 0 px  sólido  # 444A59 ; border-radius : 0 ; tamanho de fundo : capa ; largura : 100 % ; altura : 100 % ; background-position : inicial ;}
 
 
-/* 
+/ * 
 ☠ Rolezeiros do Plug ☠
-Created by ❀. мєиιиα νєиєиσ
-Do not remove the credits
-*/
+Criado por ❀. мєиιиα νєиєиσ
+Não remova os créditos
+* /
