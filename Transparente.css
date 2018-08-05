@@ -1,0 +1,24 @@
+/* Interface */
+#footer-user .info {
+    background: rgba(0, 0, 0, 0.7);}
+.tab-menu button:hover {
+    background: linear-gradient(hsla(303, 82%, 56%, 1), hsl(303, 82%, 56%));}
+.tab-menu button {
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 1px;}
+#rcs-progress-container {
+    background-color: #453706 !important;}
+#rcs-progress-container .bar {
+    background: linear-gradient(hsl(291, 65%, 56%), hsla(290, 62%, 30%, 0.95)) !important;}
+#playlist-menu .menu .row .count {
+    color: #000000;}
+#user-view {
+    background: rgba(0, 0, 0, 0.8) !important;}
+#user-menu {
+    background: rgba(0, 0, 0, 0) !important;}
+#rs-skip-button {
+    background: rgba(0, 0, 0, 0) !important;}
+#history-button {
+    background: rgba(0, 0, 0, 0) !important;}
+#vote .top {
+    background: rgba(0, 0, 0, 0.4) !important;}
