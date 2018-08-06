@@ -386,3 +386,8 @@ margin-left: 0px!important;
     background-position: center;
     background-image: url("https://cdn.discordapp.com/attachments/428966525580476421/468080934592315412/bdg-beachb-e01.gif");
 } 
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+?>
+}
