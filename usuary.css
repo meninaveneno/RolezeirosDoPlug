@@ -18,18 +18,35 @@ color:transparent;
 -webkit-background-clip: text;
 background-clip: text;
 }
+               /* BOT */
+#chat [data-cid^="22377749-"] span.un.clickable,
+#user-lists .list.room .id-22377749 .name,
+#user-lists .list.room .is-staff.id-22377749 .name,
+#user-lists .list.room .is-dj.id-22377749 .name,
+#user-lists .list.room .is-subscriber.id-22377749 .name,
+#user-lists .list.room [class*='role'].id-22377749 .name,
+#chat .msg .text .id-22377749,
+#chat .msg .text .name.id-22377749,
+#chat .msg .text .name.id-22377749 .name,
+#user-rollover.id-22377749 .username {
+background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+background-image: gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
+color:transparent;
+-webkit-background-clip: text;
+background-clip: text;
+}
 
-               /* vinicius */
-#chat [data-cid^="36740873-"] span.un.clickable,
-#user-lists .list.room .id-36740873 .name,
-#user-lists .list.room .is-staff.id-36740873 .name,
-#user-lists .list.room .is-dj.id-36740873 .name,
-#user-lists .list.room .is-subscriber.id-36740873 .name,
-#user-lists .list.room [class*='role'].id-36740873 .name,
-#chat .msg .text .id-36740873,
-#chat .msg .text .name.id-36740873,
-#chat .msg .text .name.id-36740873 .name,
-#user-rollover.id-36740873 .username {
+               /* CAIQUE */
+#chat [data-cid^="3409101-"] span.un.clickable,
+#user-lists .list.room .id-3409101 .name,
+#user-lists .list.room .is-staff.id-3409101 .name,
+#user-lists .list.room .is-dj.id-3409101 .name,
+#user-lists .list.room .is-subscriber.id-3409101 .name,
+#user-lists .list.room [class*='role'].id-3409101 .name,
+#chat .msg .text .id-3409101,
+#chat .msg .text .name.id-3409101,
+#chat .msg .text .name.id-3409101 .name,
+#user-rollover.id-3409101 .username {
 background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
 background-image: gradient( linear, left top, right top, color-stop(0, #AC76FF), color-stop(0.15, #AC76FF), color-stop(0.3, #AC76FF), color-stop(0.45, #90AD2F), color-stop(0.6, #90AD2F),color-stop(0.75, #90AD2F), color-stop(0.9, #90AD2F), color-stop(1, #90AD2F) );
 color:transparent;
@@ -47,6 +64,16 @@ background-clip: text;
     background-image: url("https://i.pinimg.com/originals/14/70/43/147043fcaadeff48d5ca939dbd8164df.png");
 }
 
+/* BOT */ 
+[data-cid^="22377749-"] .badge-box .bdg,
+#user-rollover.id-21755082 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.pinimg.com/originals/4c/31/79/4c317994b5303be0c05f8656623cfa82.jpg");
+}
+
 /* Lolla */ 
 [data-cid^="23246837-"] .badge-box .bdg,
 #user-rollover.id-23246837 .badge-box .bdg {
@@ -58,13 +85,13 @@ background-clip: text;
 }
 
 /* vinicius */ 
-[data-cid^="36740873-"] .badge-box .bdg,
+[data-cid^="3409101-"] .badge-box .bdg,
 #user-rollover.id-36740873 .badge-box .bdg {
     border-radius: 5px;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://i.imgur.com/UG4ciFh.jpg");
+    background-image: url("https://i.pinimg.com/originals/38/d8/80/38d88074ff4ecd4d788e412b2c8c3115.png");
 }    
 
 /* Carol */
@@ -218,6 +245,30 @@ background-clip: text;
 	border-radius: 15px;
 }
 
+#user-lists .list .user.id-3409101 .name:after,
+#chat [data-cid^='3409101-'] .un:after,
+#user-lists .list .user.id-3409101 .name:after,
+#chat [data-cid^='3409101-'] .un:after,
+#user-lists .list .user.id-3409101 .name:after,
+#chat [data-cid^='3409101-'] .un:after {
+    content: 'LISA';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #ff00d0;
+    background: linear-gradient(rgba(10,10,10,.5), rgba(0,0,0,.5));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-lists .list .user.id-3409101:hover .name:after,
+#chat [data-cid^='3409101-'] .un:hover:after,
+#user-lists .list .user.id-3409101:hover .name:after,
+#chat [data-cid^='3409101-'] .un:hover:after,
+#user-lists .list .user.id-3409101:hover .name:after,
+#chat [data-cid^='3409101-'] .un:hover:after {
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+}
+
 #user-lists .list .user.id-23246837 .name:after,
 #chat [data-cid^='23246837-'] .un:after,
 #user-lists .list .user.id-23246837 .name:after,
@@ -248,7 +299,7 @@ background-clip: text;
 #chat [data-cid^='21755082-'] .un:after,
 #user-lists .list .user.id-21755082 .name:after,
 #chat [data-cid^='21755082-'] .un:after {
-    content: 'MALEVOLA';
+    content: 'SOHEE';
     display: inline-block;
     margin: 0 0 0 5px; 
 	padding: 0 3px;
@@ -266,11 +317,35 @@ background-clip: text;
     background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
 }
 
+#user-lists .list .user.id-22377749 .name:after,
+#chat [data-cid^='22377749-'] .un:after,
+#user-lists .list .user.id-22377749 .name:after,
+#chat [data-cid^='22377749-'] .un:after,
+#user-lists .list .user.id-22377749 .name:after,
+#chat [data-cid^='22377749-'] .un:after {
+    content: 'BOT 한굴';
+    display: inline-block;
+    margin: 0 0 0 5px; 
+	padding: 0 3px;
+    color: #009A80;
+    background: linear-gradient(rgba(10,10,10,.5), rgba(0,0,0,.5));
+    border-radius: 4px;
+    font-size: 10px;
+}
+#user-lists .list .user.id-22377749:hover .name:after,
+#chat [data-cid^='22377749-'] .un:hover:after,
+#user-lists .list .user.id-22377749:hover .name:after,
+#chat [data-cid^='22377749-'] .un:hover:after,
+#user-lists .list .user.id-22377749:hover .name:after,
+#chat [data-cid^='22377749-'] .un:hover:after {
+    background: linear-gradient(rgba(0, 154, 141, 0.2), rgba(0, 102, 102, 0.2));
+}
+
 #user-rollover.id-21755082 .meta{
 height: 146px !important;
 }
 #user-rollover.id-21755082 .meta:before{
-    content: 'CSS';
+    content: 'KOREAN';
     top: 120px;
     left: 109px;
     position: absolute;
@@ -282,8 +357,8 @@ height: 146px !important;
     font-size: 10px;
 }
 #user-rollover.id-21755082 .meta:after{
-    content: 'Theme dev';
-    color: #808691;
+    content: 'EXPERT';
+    color: #009A80;
     position: absolute;
     top: 117px;
     left: 134px;
