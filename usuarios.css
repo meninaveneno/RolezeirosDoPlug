@@ -61,7 +61,7 @@ background-clip: text;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://i.pinimg.com/originals/14/70/43/147043fcaadeff48d5ca939dbd8164df.png");
+    background-image: url("https://data.whicdn.com/images/300838189/large.jpg");
 }
 
 /* BOT */ 
@@ -84,9 +84,9 @@ background-clip: text;
     background-image: url("https://data.whicdn.com/images/232104861/large.jpg");
 }
 
-/* vinicius */ 
+/* Caique */ 
 [data-cid^="3409101-"] .badge-box .bdg,
-#user-rollover.id-36740873 .badge-box .bdg {
+#user-rollover.id-3409101 .badge-box .bdg {
     border-radius: 5px;
     background-size: cover;
     background-repeat: repeat;
@@ -101,7 +101,7 @@ background-clip: text;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://i.pinimg.com/originals/f9/a9/cb/f9a9cb76ad6d295cf6f0f922b076d7b4.jpg");
+    background-image: url("https://78.media.tumblr.com/d766100e1bb6bbde5767b1d30fb9e397/tumblr_owqxhxlUCa1vaaf1yo1_500.png");
 
 }
 /* Lolla/2 */
@@ -206,9 +206,9 @@ background-clip: text;
 	background-position-x: right;
 }
 
-.cm.message.deletable.id-5639828::before,
-.cm.message.id-5639828::before {
-	background-image: url(https://pixel.nymag.com/imgs/daily/vulture/2017/10/27/27-xxxtentacion.w710.h473.jpg);	/* Carol */
+.cm.message.deletable.id-3409101::before,
+.cm.message.id-3409101::before {
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/9f/Black_Pink_logo_%282%29.png);	/* Caique */
 	background-repeat: no-repeat;
 	content: "";
 	position: absolute;
@@ -233,13 +233,19 @@ background-clip: text;
 	border-radius: 15px;
 }
 
-#chat [data-cid^="36740873-"] .from {
+#chat [data-cid^="3409101-"] .from {
 	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
 	padding: 7px;
 	border-radius: 15px;
 }
 
-#chat [data-cid^="38741985-"] .from {
+#chat [data-cid^="8741985-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+#chat [data-cid^="22377749-"] .from {
 	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
 	padding: 7px;
 	border-radius: 15px;
@@ -345,7 +351,7 @@ background-clip: text;
 height: 146px !important;
 }
 #user-rollover.id-21755082 .meta:before{
-    content: 'KOREAN';
+    content: 'KR';
     top: 120px;
     left: 109px;
     position: absolute;
@@ -357,7 +363,7 @@ height: 146px !important;
     font-size: 10px;
 }
 #user-rollover.id-21755082 .meta:after{
-    content: 'EXPERT';
+    content: 'ROOM';
     color: #009A80;
     position: absolute;
     top: 117px;
