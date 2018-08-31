@@ -61,21 +61,25 @@ background-clip: text;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://data.whicdn.com/images/300838189/large.jpg");
+    background-image: url("https://scontent-lax3-2.cdninstagram.com/vp/fcf9764dddbb819945f143c284a7d52f/5BFA903E/t51.2885-15/e35/c7.0.624.624/s480x480/36995462_1069770489865755_6970224788849557504_n.jpg");
 	
 }
 #user-rollover.id-21755082 .thumb .avi {
-    background: url(https://i.pinimg.com/originals/d9/c4/81/d9c481872cd66826a611adc103da69d5.gif) center center / 180px no-repeat !important;
+    background: url(http://pa1.narvii.com/6641/7e73b05771f12e5e3f771a3599e01a6171d3a8dd_00.gif) center center / 180px no-repeat !important;
 }
 
 /* BOT */ 
 [data-cid^="22377749-"] .badge-box .bdg,
-#user-rollover.id-21755082 .badge-box .bdg {
+#user-rollover.id-22377749 .badge-box .bdg {
     border-radius: 5px;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
     background-image: url("https://i.pinimg.com/originals/4c/31/79/4c317994b5303be0c05f8656623cfa82.jpg");
+
+}
+#user-rollover.id-22377749 .thumb .avi {
+    background: url(https://78.media.tumblr.com/4a62331f813e15a0e8f89c1fc487d7e6/tumblr_nnda37jBZH1rdnouco1_500.gif) center center / 180px no-repeat !important;
 }
 
 /* Lolla */ 
@@ -86,6 +90,10 @@ background-clip: text;
     background-repeat: repeat;
     background-position: center;
     background-image: url("https://data.whicdn.com/images/232104861/large.jpg");
+
+}
+#user-rollover.id-23246837 .thumb .avi {
+    background: url(https://pa1.narvii.com/6547/c22904e2d551c51e691403a7cfafc2176e91dff0_hq.gif) center center / 180px no-repeat !important;
 }
 
 /* Caique */ 
@@ -96,7 +104,11 @@ background-clip: text;
     background-repeat: repeat;
     background-position: center;
     background-image: url("https://i.pinimg.com/originals/38/d8/80/38d88074ff4ecd4d788e412b2c8c3115.png");
-}    
+    
+}
+#user-rollover.id-3409101 .thumb .avi {
+    background: url(https://www.sbs.com.au/popasia/sites/sbs.com.au.popasia/files/lisablackpink.gif) center center / 180px no-repeat !important;
+}
 
 /* Carol */
 [data-cid^="38741985-"] .badge-box .bdg,
@@ -108,6 +120,10 @@ background-clip: text;
     background-image: url("https://78.media.tumblr.com/d766100e1bb6bbde5767b1d30fb9e397/tumblr_owqxhxlUCa1vaaf1yo1_500.png");
 
 }
+#user-rollover.id-38741985 .thumb .avi {
+    background: url(https://vignette.wikia.nocookie.net/twicenation/images/2/2b/Oh_jamkkanman_jamkkanman.gif/revision/latest?cb=20180407000014) center center / 180px no-repeat !important;
+}
+
 /* Lolla/2 */
 #user-rollover.id-23246837:before{
     content: 'My Idolish';
