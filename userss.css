@@ -62,6 +62,10 @@ background-clip: text;
     background-repeat: repeat;
     background-position: center;
     background-image: url("https://data.whicdn.com/images/300838189/large.jpg");
+	
+}
+#user-rollover.id-21755082 .thumb .avi {
+    background: url(https://i.pinimg.com/originals/d9/c4/81/d9c481872cd66826a611adc103da69d5.gif) center center / 180px no-repeat !important;
 }
 
 /* BOT */ 
